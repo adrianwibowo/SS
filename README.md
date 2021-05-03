@@ -3,7 +3,7 @@
 Clone this repository <br>
 run  `npm install` to install all dependencies<br>
 run `npm run` to run the server<br>
-change `.env.example` into `.env` put your NewYourTimes API_KEY on NYT_API_KEY at file .env file<br>
+change `.env.example` into `.env` put your NewYourTimes API_KEY on NYT_API_KEY at file .env<br>
 
 
 ### 1. For Article search: <br>
